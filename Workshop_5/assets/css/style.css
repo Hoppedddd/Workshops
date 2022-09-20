@@ -1,0 +1,34 @@
+#muur {
+    width: 500px;
+    height: 295px;
+    background-color: #d9d9d9;
+}
+
+.rij {
+    display: flex;
+}
+
+.steen {
+    background-color:orange;
+    width:100px;
+    height:25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.geen_cement_rechts {
+    margin-right: 0;
+}
+
+.smaller {
+    width: 80px;
+}
+
+.coc{
+    margin-bottom: 0px !important;
+}
+
+.vadervansemih {
+    background-color: #d9d9d9 !important;
+}

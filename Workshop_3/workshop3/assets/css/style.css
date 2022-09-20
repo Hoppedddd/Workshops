@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+#header {
+    background-color: rgb(78, 5, 196);
+    color: blueviolet;
+    width: 480;
+    height: 120;;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 120px;
+
+}
+
+#body {
+    background-color: rgb(78, 5, 196);
+    color: blueviolet;
+    width: 480;
+    height: 120;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 120px;
+}
+
+#footer {
+    background-color: blue;
+    color: blueviolet;
+    width: 480;
+    height: 120;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 120px;
+
+
+}
+
+#imggg {
+    height: 720px;
+    width: auto;
+}
